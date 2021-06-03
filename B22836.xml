@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Faithfull relation of the late occurrences and proceedings of the Scottish Army dated from His Excellencies the Lord Generall Lesley's quarters before Newcastle, 21 February, 1644 : together with a list of the noblemen, commanders and other officers of the army.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22836</idno><idno type="EEBO-CITATION">12032482_196565</idno>
+  <idno type="VID">196565</idno>
+  <idno type="EEBO-PROQUEST">2248531708</idno>
+  
+            <idno type="STC">Wing F280</idno>
+            <idno type="OCLC">12032482</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196565)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 234:E35, no 2 or 234:E35, no 10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Faithfull relation of the late occurrences and proceedings of the Scottish Army dated from His Excellencies the Lord Generall Lesley's quarters before Newcastle, 21 February, 1644 : together with a list of the noblemen, commanders and other officers of the army.</title>
+               </titleStmt>
+               <extent>[2], 6, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock and Samuel Gellibrand ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: copy E.35, no. 10 lacks list of officers.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Leven, Alexander Leslie, --  Earl of, 1580?-1661.</term>
+               <term type="corporate_name">Scotland. --  Army.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:196565:1"/>
+            <pb facs="tcp:196565:1"/>
+            <p> A faithfull RELATION, OF THE Late Occurrences and Proceedings OF THE Scottish Army: Dated from His Excellencies the Lord Generall <hi>Lesley's</hi> Quarters before NEWCASTLE, 21. <hi>February</hi> 1644.</p>
+            <p>Together With a LIST of the Noblemen, Commanders and other Officers of the <hi>ARMY.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Bostock</hi> and <hi>Samuel Gellibrand,</hi> dwelling in <hi>Pauls</hi> Churchyard. 1644.</p>
+            <pb facs="tcp:196565:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:196565:2"/>
+            <head>A Faithfull Relation Of the late Occurrences and Pro<g ref="char:EOLhyphen"/>ceedings of the Scotish Army before <hi>NEWCASTLE.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>THat I may not be wanting to your ex<g ref="char:EOLhyphen"/>pectation, and mine own engagements for an account of proceedings here, these may let you understand, That upon Sa<g ref="char:EOLhyphen"/>turday the third of this instant, we came before the Town of <hi>Newcastle</hi> without any oppositi<g ref="char:EOLhyphen"/>on, till we came before the Town, where the enemy had made up a Fort against us; for gaining whereof, my Lord Generall sent forth a party of Muskettiers to storm the East side of it, and another party to storm the West: they went on with as much cou<g ref="char:EOLhyphen"/>rage and resolution as ever any did to so great an at<g ref="char:EOLhyphen"/>tempt, discharging their Muskets very couragiously
+<pb n="2" facs="tcp:196565:3"/> in the midst of the greatest disadvantage that could be, being in the open fields, almost fully in the view of their enemy; the enemy being sheltred with For<g ref="char:EOLhyphen"/>tifications, and answering our Musket-shots with shots of Canon and Muskets: In which posture they continued till twelve of the clock at night, with the losse onely of <hi>Patric English,</hi> Captain-Lieutenant to the Lord <hi>Lindsey,</hi> and 9 common Souldiers.</p>
+            <p>Upon our first appearance, the enemy set the <hi>Sandgate</hi> on fire, and continued burning all that night, and Sunday and Munday all day▪ which I be<g ref="char:EOLhyphen"/>lieve had been the case of all <hi>Northumberland,</hi> but that for prevention thereof our Army did flee without its feathers, I mean our Artillery, and the greatest part of our Ammunition. Some of our Forces who were quartered upon the East side of <hi>Newcastle,</hi> about half a flight shot from the water, with the concurrence and advice of the Generall of the Artillery, seized upon two Ships and ten Lighters, which are still in their possession.</p>
+            <p>I professe, Sir, I never saw so great willingnesse in any people to adventure themselves upon the greatest hazards that be offered unto us; they are impatient that they have nothing to do; and, which is more admired, the Souldiers who were not in readinesse to march with their Regiments when they came into this Kingdom, come daily up to us in twenties and thirties, without so much as an Officer to attend them: I perswade my self, God would not have put such
+<pb n="3" facs="tcp:196565:3"/> spirits into them, if he had not some great work to be done by them.</p>
+            <p>The weather hath been extreme stormy, the ways are unpassable with Carriages, and our Ammunition hath been long a coming: The uncertainty of the season of the yeer, and the swelling of the River by sudden rains, makes our passage more difficult: The windes have not served to bring Ships with provision from <hi>Scotland,</hi> and the Countrey is burnt and wasted in many places; notwithstanding all which difficul<g ref="char:EOLhyphen"/>ties, or what other may fall out, resting in confidence upon the Lords wonted mercy, we are resolved to set forward.</p>
+            <p>The enemy burn and spoyl what they can reach on this side <hi>Tyne,</hi> especially corn; at which work a Squa<g ref="char:EOLhyphen"/>dron of our Horse, about 15 men, with whom other 10 accidentally joyned, fell upon 100 Muskettiers of the enemy sent from <hi>Tinmouth</hi> for that service, killed 14 or 15 of them, and took prisoners 50; whereof the Generall kept onely 2, and sent 48 into <hi>Newcastle;</hi> and the Marquesse sent back 7 or 8 of ours who were catched stragling. The Gentleman who gave this Defeat, is the Earl of <hi>Eglentons</hi> Major; his name is <hi>Montgomery.</hi>
+            </p>
+            <pb n="4" facs="tcp:196565:4"/>
+            <p> Monday morning early, the 19th of this instant, 2. Regiments of horse of the Scot<g ref="char:EOLhyphen"/>tish army, in which were 15 Troups, under the command of the Lord <hi>Balgoney</hi> the Ge<g ref="char:EOLhyphen"/>neralls son, and the Lord <hi>Kirkudbright</hi> lying at <hi>Corbridge</hi> two miles from <hi>Hexham,</hi> had an Alarme given them by 25 Troups of the E<g ref="char:EOLhyphen"/>nemy, who under the command of Sir <hi>Mar<g ref="char:EOLhyphen"/>maduke Langdale</hi> and Colonel <hi>Fenwick,</hi> who had also waiting on them, three or 400 Musquettiers, which the other Troups wan<g ref="char:EOLhyphen"/>ted: Both partees drew up betwixt <hi>Cor<g ref="char:EOLhyphen"/>bridge</hi> and <hi>Hexham;</hi> and <hi>Ballentyne</hi> Lievte<g ref="char:EOLhyphen"/>nant Colonell to the Generalls Regiment, charged the enemy and made them give way with losse, and so the second time, and had taken above 100 prisoners, but not satisfied with that, gave a third charge, which drave them to their Musquettiers which were pla<g ref="char:EOLhyphen"/>ced behind them, and being thus engaged with horse and foot, our Troups were dis<g ref="char:EOLhyphen"/>ordred and had a very strait retreat through a gap, where some men were lost, but the enemy pursued not far, for they were, as I suppose, loath to engage beyond their foot
+<pb n="5" facs="tcp:196565:4"/> notwithstanding their advantage. Our men wheeling in that disorder, were met by Colonell <hi>Robert Brandling,</hi> with ten Troups more, who crossed the water below <hi>Cor<g ref="char:EOLhyphen"/>bridge,</hi> and was to have fallen upon the Reere of our men, but it fell out to be the Front in their returne. <hi>Brandling</hi> forwardly rode out before his Troupes to exchange a Pistoll, and one Lievtenant <hi>Ellot</hi> rode up to him, and when they had discharged each at other, and were wheeling about to draw their swords, <hi>Brandlings</hi> horse stumbled, and the Lievtenant was so neere him as to pull him off his horse, which when his men perceived they retreated, which gave cou<g ref="char:EOLhyphen"/>rage to our men to fall on, which they did▪ and drove them over the River againe, kil<g ref="char:EOLhyphen"/>led some, and forced others through the water so hastily, that there were some of them drowned, and thus was the day divi<g ref="char:EOLhyphen"/>ded: We cannot yet perfectly understand the losse on each side, but the numbers were something equall of the slaine, there were a<g ref="char:EOLhyphen"/>bout 60 men killed upon the place. We have lost Maj. <hi>Agnew,</hi> Cap. <hi>Forbes,</hi> a Cornet,
+<pb n="6" facs="tcp:196565:5"/> and I heare of no other Officers, tis not cer<g ref="char:EOLhyphen"/>taine whether they are killed or taken: We have taken Colonell <hi>Brandling,</hi> one Lievte<g ref="char:EOLhyphen"/>nant, none else of note. Thus have you a broken account of a broken busines, but as neere the Truth as my best enquiry and un<g ref="char:EOLhyphen"/>derstanding can attaine, I hope wee shall make good use of it and not catch cold after this heat. I trust it wil make us more watch<g ref="char:EOLhyphen"/>full and consident in God, whose great pro<g ref="char:EOLhyphen"/>vidence it was, that we were not wholly cut off, considering the inequality of the num<g ref="char:EOLhyphen"/>ber, that the enemy had here the chiefest of his strength, and had been so carefull in the surprise as to provide 10 Troups to fall up<g ref="char:EOLhyphen"/>on our Reere, which was miscarried by their Colonells over forwardnes to a single com<g ref="char:EOLhyphen"/>bat. We are upon moving, but the fruits of it you must expect hereafter, that is, assoone as I have opportunity. <hi>This skirmish is likely to grow up into a great Victory before it come to</hi> Oxford, <hi>but you may safely contradict it upon these termes, so I rest,</hi>
+            </p>
+            <closer>
+               <signed>yours faithfully</signed>
+            </closer>
+            <pb facs="tcp:196565:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
